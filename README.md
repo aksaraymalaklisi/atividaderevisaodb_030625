@@ -3,6 +3,8 @@ O script SQL está incompleto.
 
 As tarefas estão abaixo:
 
+--
+
 🧠 Minimundo: Sistema de Locadora de Filmes
 A empresa CineLocadora realiza o aluguel de filmes para clientes cadastrados. Os clientes podem alugar vários filmes, e cada aluguel pode conter vários itens. A locadora deseja manter um controle sobre:
 
